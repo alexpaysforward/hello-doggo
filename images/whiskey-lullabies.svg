@@ -1,0 +1,7 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="600" fill="#667eea"/>
+  <text x="300" y="260" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="white" text-anchor="middle">Whiskey &amp;</text>
+  <text x="300" y="320" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="white" text-anchor="middle">Lullabies</text>
+  <text x="300" y="380" font-family="Arial, sans-serif" font-size="32" fill="#ffeaa7" text-anchor="middle">HELLO DOGGO</text>
+  <text x="300" y="440" font-family="Arial, sans-serif" font-size="18" fill="#e0e0e0" text-anchor="middle">[Replace with album cover]</text>
+</svg>
